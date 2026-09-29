@@ -1,3 +1,13 @@
+# Archived — project moved
+
+Use **[ocs-landscape-report](https://github.com/liu0029yuxuan/ocs-landscape-report)** for the complete project and future updates.
+
+**[Open the published presentation](https://liu0029yuxuan.github.io/ocs-landscape-report/)**
+
+This repository is retained for historical reference.
+
+---
+
 # OCS landscape — Yuxuan Liu
 
 English | [Historical Chinese translation](README.zh-CN.md)
